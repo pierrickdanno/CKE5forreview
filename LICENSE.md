@@ -1,7 +1,7 @@
 Software License Agreement
 ==========================
 
-Copyright (c) 2014-2020, CKSource - Frederico Knabben. All rights reserved.
+Copyright (c) 2014-2021, CKSource - Frederico Knabben. All rights reserved.
 
 Online builder code samples are licensed under the terms of the MIT License (see Appendix A):
 
